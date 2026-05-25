@@ -7,7 +7,7 @@ Descripción General del Sistema
 
 El Tunomático digital es un sistema de hardware y software diseñado para organizar, gestionar y optimizar la espera de clientes en establecimientos con atención presencial.
 
-Componentes principales:
+### Componentes principales:
 
 •	Tótem o Kiosco de Autoservicio
 •	Asignación del Turno (ticket físico o digital)
