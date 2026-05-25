@@ -22,6 +22,7 @@ Ventajas:
 •	Genera métricas y estadísticas.
 •	Elimina filas físicas.
 
+
 1.	Diagrama de Casos de Uso UML– Sistema Tunomático
 
 El análisis funcional permitió identificar con claridad los actores involucrados y las funcionalidades críticas del sistema. Se aplicaron correctamente relaciones <<include>> y <<extend>> para reflejar flujos obligatorios y opcionales en el proceso.
@@ -34,6 +35,7 @@ Actores identificados:
 •	Sistema de Notificaciones: Actor externo que envía alertas automáticas.
 
 Casos de uso destacados y relaciones aplicadas:
+
 •	Solicitar Turno
 o	<<include>> Ingresar RUT
 o	<<include>> Registrar Turno en Cola
@@ -46,12 +48,15 @@ o	<<extend>> Exportar PDF
 ![Implementación UML](https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/casos_uso_tunomatico.png.png)
 
 Justificación técnica:
+
 •	Cliente: Ingresar RUT (<<include>>), Registrar Turno en Cola, <<extend>> Imprimir Comprobante.
 •	Operador: Consultar Cola, Llamar Turno (<<extend>> Enviar Notificación), Atender Turno.
 •	Administrador: Configurar Sistema, Generar Reporte (<<extend>> Exportar PDF).
 •	Sistema externo: actor “Sistema de Notificaciones” conectado a Enviar Notificación.
 
 2.	Diagrama de Clases UML con Patrones Aplicados
+
+   
 Este diagrama representa la estructura lógica del sistema Tunomático, mostrando las clases principales y la aplicación de los patrones de diseño requeridos en la asignatura.
 Justificación Arquitectónica y Patrones Aplicados
 1.	Singleton – Clase Administrador
