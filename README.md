@@ -18,6 +18,8 @@ Ventajas:
 
 El análisis funcional permitió identificar con claridad los actores involucrados y las funcionalidades críticas del sistema. Se aplicaron correctamente relaciones <<include>> y <<extend>> para reflejar flujos obligatorios y opcionales en el proceso.
 
+![imagenes](casos_uso_tunomatico.png.png)
+
 Actores identificados:
 
 •	Cliente: Solicita turno, ingresa RUT, recibe comprobante.
