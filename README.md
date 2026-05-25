@@ -108,6 +108,6 @@ o	Supervisa métricas, reportes y configuración general del sistema.
 
 El diagrama refleja una arquitectura distribuida, modular y escalable, donde cada nodo cumple una función específica dentro del flujo de atención. La comunicación entre dispositivos y el servidor central se realiza mediante protocolos estándar, garantizando interoperabilidad, seguridad y eficiencia operativa.
 
-##Reflexiones Finales
+## Reflexiones Finales
 
 El modelado arquitectónico del sistema Tunomático permitió comprender la importancia de la coherencia entre los niveles funcional, lógico y físico del diseño. La aplicación de patrones de diseño asegura escalabilidad, reutilización y claridad estructural, mientras que la representación UML facilita la comunicación técnica entre desarrolladores y usuarios.
