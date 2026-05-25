@@ -1,6 +1,7 @@
 Sistema de Gestión de Tunomático
 
 Objetivo General
+
 Desarrollar la transición completa de modelado arquitectónico de un Sistema de Gestión de Turnos Digitales (Tunomático), aplicando buenas prácticas de diseño orientado a objetos, uso de patrones de diseño y representando la arquitectura física mediante diagramas UML.
 Descripción General del Sistema
 El Tunomático digital es un sistema de hardware y software diseñado para organizar, gestionar y optimizar la espera de clientes en establecimientos con atención presencial.
