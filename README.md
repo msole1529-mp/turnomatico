@@ -1,6 +1,6 @@
-Sistema de Gestión de Tunomático
+# Sistema de Gestión de Tunomático
 
-Objetivo General
+## Objetivo General
 
 Desarrollar la transición completa de modelado arquitectónico de un Sistema de Gestión de Turnos Digitales (Tunomático), aplicando buenas prácticas de diseño orientado a objetos, uso de patrones de diseño y representando la arquitectura física mediante diagramas UML.
 Descripción General del Sistema
