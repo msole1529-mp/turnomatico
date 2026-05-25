@@ -66,7 +66,7 @@ o	La interfaz Display define los métodos generales, mientras que Pantalla e Imp
 
 3. Diagrama de Implementación UML
 
-![Implementación UML]([https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/casos_uso_tunomatico.png.png](https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/implementacion_tunomatico.png.png))
+![Implementación UML](https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/implementacion_tunomatico.png.png)
 
 Descripción de los nodos y componentes
 1.	Tótem de Autoservicio
