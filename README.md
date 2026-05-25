@@ -62,7 +62,7 @@ o	La dependencia hacia Turno muestra que el adaptador notifica directamente sobr
 o	Separa la abstracción de la implementación, permitiendo mostrar o imprimir turnos de forma independiente.
 o	La interfaz Display define los métodos generales, mientras que Pantalla e Impresora los refinan según el tipo de salida.
 
-![Implementación UML]([https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/casos_uso_tunomatico.png.png](https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/clases_tunomatico.png.png))
+![Implementación UML](https://github.com/msole1529-mp/turnomatico/blob/main/imagenes/clases_tunomatico.png.png)
 
 3. Diagrama de Implementación UML
 
