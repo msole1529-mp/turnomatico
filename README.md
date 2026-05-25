@@ -4,18 +4,24 @@ Objetivo General
 
 Desarrollar la transición completa de modelado arquitectónico de un Sistema de Gestión de Turnos Digitales (Tunomático), aplicando buenas prácticas de diseño orientado a objetos, uso de patrones de diseño y representando la arquitectura física mediante diagramas UML.
 Descripción General del Sistema
+
 El Tunomático digital es un sistema de hardware y software diseñado para organizar, gestionar y optimizar la espera de clientes en establecimientos con atención presencial.
+
 Componentes principales:
+
 •	Tótem o Kiosco de Autoservicio
 •	Asignación del Turno (ticket físico o digital)
 •	Pantallas de Llamado
 •	Consola del Ejecutivo
 •	Servidor Central
+
 Ventajas:
+
 •	Reduce la percepción del tiempo de espera.
 •	Segmenta clientes preferenciales.
 •	Genera métricas y estadísticas.
 •	Elimina filas físicas.
+
 1.	Diagrama de Casos de Uso UML– Sistema Tunomático
 
 El análisis funcional permitió identificar con claridad los actores involucrados y las funcionalidades críticas del sistema. Se aplicaron correctamente relaciones <<include>> y <<extend>> para reflejar flujos obligatorios y opcionales en el proceso.
